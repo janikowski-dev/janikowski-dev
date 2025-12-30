@@ -1,6 +1,6 @@
 # Hi, I’m Adam 👋
 
-**Unity Developer (6y, incl. tech lead)** focused on **tools programming, editor tooling, and content pipelines**.
+**Unity Developer (6y, incl. tech lead)** currently focused on **tools programming, editor tooling, and content pipelines**.
 
 ## 🔧 What I’m Working On
 - Unreal Engine editor tools (asset validation, dependency analysis)
