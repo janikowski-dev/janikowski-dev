@@ -19,7 +19,7 @@
 - LinkedIn: https://www.linkedin.com/in/adam-janikowski/
 
 ## ⚡ Fun Facts
-- Big anime fan 🎌 (strong appreciation for storytelling)
+- Big anime fan 🎌 (much love for storytelling)
 - Gym keeps me balanced 🏋️
 - Playing piano a bit 🎹
 - Tea > coffee, always 🍵
