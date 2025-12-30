@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Adam 👋
 
-<!--
-**janikowski-dev/janikowski-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Unity Developer (6y, incl. tech lead)** focused on **tools programming, editor tooling, and content pipelines**.
 
-Here are some ideas to get you started:
+## 🔧 What I’m Working On
+- Unreal Engine editor tools (asset validation, dependency analysis)
+- C# / .NET desktop tools supporting production workflows
+- Internal frameworks and shared systems from long-lived Unity projects
+- Exploring DCC tooling, with plans to build a **Blender plugin in Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Tech
+- Unity, Unreal Engine  
+- C++, C#  
+- .NET, WPF / XAML  
+- Python (DCC tooling – in progress)
+
+## 📫 Get in Touch
+- GitHub: https://github.com/janikowski-dev  
+- LinkedIn: https://www.linkedin.com/in/adam-janikowski/
+
+## ⚡ Fun Facts
+- Big anime fan 🎌 (strong appreciation for storytelling)
+- Gym keeps me balanced 🏋️
+- Playing piano a bit 🎹
+- Tea > coffee, always 🍵
+- Like sketching and drawing ✏️
