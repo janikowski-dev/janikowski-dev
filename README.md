@@ -6,7 +6,7 @@
 - Unreal Engine editor tools (asset validation, dependency analysis)
 - C# / .NET desktop tools supporting production workflows
 - Internal frameworks and shared systems from long-lived Unity projects
-- DCC tooling — currently building a **Blender plugin in Python** to support content workflows
+- DCC tooling — Blender metadata exporter in Python supporting asset validation pipelines
 
 ## 🧰 Tools & Tech
 - **Engines:** Unity, Unreal Engine  
