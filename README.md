@@ -6,21 +6,15 @@
 - Unreal Engine editor tools (asset validation, dependency analysis)
 - C# / .NET desktop tools supporting production workflows
 - Internal frameworks and shared systems from long-lived Unity projects
-- Exploring DCC tooling, with plans to build a **Blender plugin in Python**
+- DCC tooling — currently building a **Blender plugin in Python** to support content workflows
 
 ## 🧰 Tools & Tech
-- Unity, Unreal Engine  
-- C++, C#  
-- .NET, WPF / XAML  
-- Python (DCC tooling – in progress)
+- **Engines:** Unity, Unreal Engine  
+- **Languages:** C++, C#  
+- **Desktop / UI:** .NET, WPF / XAML  
+- **Scripting / DCC:** Python (pipeline & tooling focus)
 
-## 📫 Get in Touch
-- GitHub: https://github.com/janikowski-dev  
-- LinkedIn: https://www.linkedin.com/in/adam-janikowski/
-
-## ⚡ Fun Facts
-- Big anime fan 🎌 (much love for storytelling)
-- Gym keeps me balanced 🏋️
-- Playing piano a bit 🎹
-- Tea > coffee, always 🍵
-- Like sketching and drawing ✏️
+## ⚡ A Bit More About Me
+- Strong believer in **pragmatic, user-driven tools development**
+- Prefer simple solutions that evolve through real usage and feedback
+- Outside of work: gym, piano, sketching, and far too much tea ☕
