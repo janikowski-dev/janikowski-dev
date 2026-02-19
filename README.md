@@ -2,9 +2,9 @@
 
 I'm **Adam**, a game/tools programmer based in Poland.
 
-I design and build whatever I can imagine. 
+I enjoy bringing the cool ideas that pop into my head to life.
 
-If an idea pops into my head, chances are I’ll build it and ship it.
+If something seems fun or interesting, I’ll usually build it and see it through.
 
 ----------
 
