@@ -8,7 +8,7 @@ If an idea pops into my head, chances are I’ll build it and ship it.
 
 ----------
 
-I enjoy exploring new languages, engines, and frameworks, which naturally led me to a fairly versatile tech stack:
+I enjoy exploring new languages, engines, and frameworks, which naturally led me to a fairly versatile skillset:
 
 **Languages:** C#, C++, C, Python, TypeScript, JavaScript
 
@@ -32,7 +32,15 @@ I enjoy exploring new languages, engines, and frameworks, which naturally led me
 
 I've built quite a few tools and games, but my favorite so far is the one I'm currently working on:  https://github.com/janikowski-dev/Story-System
 
+
+----------
+
 A Bit More About Me:
 - Strong believer in pragmatic, user-driven tools development
 - Prefer simple solutions that evolve through real usage and feedback
-- Outside of work: Kickboxing, gym, piano, modernist and existentialist literature, narrative-driven games, anime, drawing, and far too much tea
+- Outside of work: gym, piano, modernist and existentialist literature, narrative-driven games, anime, drawing, and far too much tea
+
+
+----------
+
+Note for recruiters: This account is reserved for personal projects - any professional work takes place on a separate account.
