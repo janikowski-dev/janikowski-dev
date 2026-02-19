@@ -35,7 +35,7 @@ I've built quite a few tools and games, but my favorite so far is the one I'm cu
 
 ----------
 
-A Bit More About Me:
+A bit more about me:
 - Strong believer in pragmatic, user-driven tools development
 - Prefer simple solutions that evolve through real usage and feedback
 - Outside of work: gym, piano, modernist and existentialist literature, narrative-driven games, anime, drawing, and far too much tea
