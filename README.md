@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Adam**, a tools programmer based in Poland.
+I'm **Adam**, a games/tools programmer based in Poland.
 
 I enjoy bringing the cool ideas that pop into my head to life.
 
